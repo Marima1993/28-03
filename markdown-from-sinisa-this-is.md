@@ -2,17 +2,16 @@ ___
 
 <h1 align="center">Let me tell you about my country</h1>
 
-### *Serbia* 
+ <h1 align="center" style="font-size: 70px"> <strong>Serbia</strong> </h1>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Serbien_topo.png/310px-Serbien_topo.png" alt="drawing" width="400"/> 
 
 ### Flag 
 
 ![Serbian flag](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Flag_of_Serbia.svg/125px-Flag_of_Serbia.svg.png)
 
-#### Capital: *Belgrade*
-#### Official languages: *Serbian*
-#### Area: *88.499 km<sup>2</sup>*
-#### Population: *~7.000.000*
+#### Capital: *`Belgrade`*
+#### Official languages: *`Serbian`*
+#### Population: *`~7.000.000`*
 #### Anthem: *[Boze Pravde](https://en.wikipedia.org/wiki/File:National_anthem_of_Serbia,_performed_by_the_United_States_Navy_Band.wav)*
 #### Main Regions: 
     1. Vojvodina 
@@ -51,6 +50,32 @@ ___
 ### ***[Exit music festival](https://www.exitfest.org/) is in Serbia in Novi Sad***
 
 <img src="https://www.exitfest.org/wp-content/uploads/2021/07/exit-logo-2022.svg" alt="drawing" width="200"/> 
+
+``` json
+{
+    "yearsActive": "2000-present",
+    "founders": "Dušan Kovačević, Bojan Bošković, Ivan Milivojev",
+    "attendance": "200,000(2023)",
+    "capacity": ">70,000"
+}
+
+```
+
+### The word “Vampire” is Serbian 
+
+>The word Vampire is derived from the Serbian word ‘Vampir’. It is the most widely used Serbian word throughout the world
+
+
+### Birthplace of Roman Emperors
+
+>Not less than 17  of the great Roman emperors were born on the territory of today’s Serbia. The widely celebrated Roman emperor Constantine the Great, was born in today’s city of Nis. He was the first to declare Christianity as an official religion
+        
+
+### Belgrade Is One of the Oldest Cities in Europe
+
+>Archeological excavations have proven that human settlements had existed in Belgrade for more than 7000 years. 
+
+
 
 
 
