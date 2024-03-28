@@ -37,7 +37,7 @@ ___
 
 ### ***Nemanja Vidic The Greatest defenders in history***
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDl4Ynkwc3Ezang1ZmUzOHVjdzNpZXdsYmUyMDlmN2psOW50eWp6ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Sm7Yrc4B64gXLGxgju/giphy.gif" alt="animated" /> 
+<img src="https://media.gettyimages.com/id/488461685/de/foto/manchester-england-nemanja-vidic-of-manchester-united-salutes-the-fans-after-his-final-home.jpg?s=1024x1024&w=gi&k=20&c=aDJo3w19bA1xiYRxEM1LTUVUhnn5RpPEtApwUkvFD0Y=" alt="drawing" width="400"/>
 
 
 ### ***Nikola Tesla No Addition Info needed :smile:***
